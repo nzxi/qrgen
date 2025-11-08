@@ -11,7 +11,7 @@ TITLE = r"""
  | |__| | | \ \| |__| | |____| |\  |
   \___\_\_|  \_\\_____|______|_| \_|
 
-  By hxpw@github
+  By nzxi@github
 """
 
 def export(image):
